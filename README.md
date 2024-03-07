@@ -1,0 +1,2 @@
+# senecacli
+testnet tea
